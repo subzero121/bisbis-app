@@ -2,193 +2,241 @@ export const workouts = [
   {
     week: 1,
     day: "السبت",
-    name: "كارديو 1",
+    name: "نط الحبل + القفز في المكان",
     duration: "30 دقيقة",
     sets: "",
-    calories: 205
+    calories: 205,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 1,
     day: "الاثنين",
-    name: "مقاومة علوي 1",
+    name: "تمرين ضغط + رفع دمبل أمامي",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 185
+    calories: 185,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 1,
     day: "الأربعاء",
-    name: "يوغا 1",
+    name: "تمدد القطة والبقرة + الطفل",
     duration: "30 دقيقة",
     sets: "",
-    calories: 105
+    calories: 105,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
   {
     week: 2,
     day: "السبت",
-    name: "كارديو 2",
+    name: "الركض الثابت + سكوات قفز",
     duration: "30 دقيقة",
     sets: "",
-    calories: 210
+    calories: 210,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 2,
     day: "الاثنين",
-    name: "مقاومة علوي 2",
+    name: "تمرين بايسبس + ضغط الترايسبس",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 190
+    calories: 190,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 2,
     day: "الأربعاء",
-    name: "يوغا 2",
+    name: "الكلب المتجه للأسفل + التنفس العميق",
     duration: "30 دقيقة",
     sets: "",
-    calories: 110
+    calories: 110,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
   {
     week: 3,
     day: "السبت",
-    name: "كارديو 3",
+    name: "بلانك مع فتح الأرجل + جاك القفز",
     duration: "30 دقيقة",
     sets: "",
-    calories: 215
+    calories: 215,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 3,
     day: "الاثنين",
-    name: "مقاومة علوي 3",
+    name: "تمرين ضغط + تمرين التجديف بذراعين",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 195
+    calories: 195,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 3,
     day: "الأربعاء",
-    name: "يوغا 3",
+    name: "تمدد الساق + تمدد الفراشة",
     duration: "30 دقيقة",
     sets: "",
-    calories: 115
+    calories: 115,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
   {
     week: 4,
     day: "السبت",
-    name: "كارديو 4",
+    name: "متسلق الجبال + قفز جانبي",
     duration: "30 دقيقة",
     sets: "",
-    calories: 220
+    calories: 220,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 4,
     day: "الاثنين",
-    name: "مقاومة علوي 4",
+    name: "تمارين الكتف الجانبية + ضغط الكتف",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 200
+    calories: 200,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 4,
     day: "الأربعاء",
-    name: "يوغا 4",
+    name: "وضعية الجسر + دوران العمود الفقري",
     duration: "30 دقيقة",
     sets: "",
-    calories: 120
+    calories: 120,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
   {
     week: 5,
     day: "السبت",
-    name: "كارديو 5",
+    name: "المشي السريع في المكان + تابات سريعة",
     duration: "30 دقيقة",
     sets: "",
-    calories: 225
+    calories: 225,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 5,
     day: "الاثنين",
-    name: "مقاومة علوي 5",
+    name: "دفع للأعلى + دوائر الذراعين",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 205
+    calories: 205,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 5,
     day: "الأربعاء",
-    name: "يوغا 5",
+    name: "تمدد الظهر + تمارين الرقبة",
     duration: "30 دقيقة",
     sets: "",
-    calories: 125
+    calories: 125,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
   {
     week: 6,
     day: "السبت",
-    name: "كارديو 6",
+    name: "سكوات + طعنات متتالية",
     duration: "30 دقيقة",
     sets: "",
-    calories: 230
+    calories: 230,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 6,
     day: "الاثنين",
-    name: "مقاومة علوي 6",
+    name: "بايسبس + الترايسبس مع كرسي",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 210
+    calories: 210,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 6,
     day: "الأربعاء",
-    name: "يوغا 6",
+    name: "فتح الورك + استرخاء الأرجل",
     duration: "30 دقيقة",
     sets: "",
-    calories: 130
+    calories: 130,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
   {
     week: 7,
     day: "السبت",
-    name: "كارديو 7",
+    name: "قفز عالي الركبة + بلانك ديناميكي",
     duration: "30 دقيقة",
     sets: "",
-    calories: 235
+    calories: 235,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 7,
     day: "الاثنين",
-    name: "مقاومة علوي 7",
+    name: "تمارين الكتف الأمامي + الخلفي",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 215
+    calories: 215,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 7,
     day: "الأربعاء",
-    name: "يوغا 7",
+    name: "تمارين التمدد الجانبي + التنفس العميق",
     duration: "30 دقيقة",
     sets: "",
-    calories: 135
+    calories: 135,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
   {
     week: 8,
     day: "السبت",
-    name: "كارديو 8",
+    name: "سكوات قفز + تابات كروس",
     duration: "30 دقيقة",
     sets: "",
-    calories: 240
+    calories: 240,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 8,
     day: "الاثنين",
-    name: "مقاومة علوي 8",
+    name: "تمارين الضغط مع التثبيت + رفع جانبي",
     duration: "25 دقيقة",
     sets: "3 × 12",
-    calories: 220
+    calories: 220,
+    type: "تمارين متنوعة",
+    target: "كامل الجسم"
   },
   {
     week: 8,
     day: "الأربعاء",
-    name: "يوغا 8",
+    name: "الاستلقاء الهادئ + وضع الجنين",
     duration: "30 دقيقة",
     sets: "",
-    calories: 140
+    calories: 140,
+    type: "مرونة واستشفاء",
+    target: "كامل الجسم"
   },
 ];
