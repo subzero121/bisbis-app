@@ -8,6 +8,7 @@ export default function Home() {
       <ul style={{ listStyle: 'none', padding: 0 }}>
         <li><Link href="/meals"><button>🥗 خطة الوجبات</button></Link></li>
         <li><Link href="/workouts"><button>🏋️‍♀️ خطة التمارين</button></Link></li>
+        <li><Link href="/progress"><button>📊 تتبع الوزن</button></Link></li>
       </ul>
     </main>
   );
